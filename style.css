@@ -1,0 +1,91 @@
+.main {
+    margin-top: 5rem;
+    padding: 0rem 0rem 0rem 35rem;
+}
+
+.main p {
+    margin: 0rem 0rem 0rem 1rem;
+    padding: 0rem 0rem 0rem 1rem;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.container1 {
+    display: flex;
+    margin: 1rem 0rem 0rem -5rem;
+}
+
+.container2 {
+    display: flex;
+    margin: 0rem 0rem 0rem -5rem;
+
+}
+
+.container3 {
+    display: flex;
+    margin: 0rem 0rem 0rem -5rem;
+}
+
+.container4 {
+    display: flex;
+    margin: 0rem 0rem 0rem -5rem;
+}
+
+.screen {
+    margin: 0rem 0rem -1rem -22rem;
+    padding: 1rem 4rem 2rem 3rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+    font-family: system-ui;
+}
+
+.clear {
+    margin: 3rem 4rem 4rem 0rem;
+    margin: 1rem 9rem 0rem -1rem;
+    padding: 9px 9rem 6px 9rem;
+    text-align: center;
+    font-family: monospace;
+    cursor: pointer;
+    font-style: revert;
+    background-color: red;
+    font-size: 2rem;
+    border: 3px black solid;
+
+}
+
+.clear:hover {
+    background-color: rgb(136, 168, 72);
+}
+
+.btn {
+    margin: 0rem 0rem 1rem 1rem;
+    padding: 1rem 2rem 1rem 2rem;
+    background: rgb(19 31 0);
+    border-radius: 1rem;
+    cursor: pointer;
+    border: 3px black solid;
+}
+
+.btn2 {
+    margin: 0rem 0rem 1rem 1rem;
+    padding: 1rem 2rem 1rem 2rem;
+    background: rgb(255, 0, 0);
+    border-radius: 1rem;
+    cursor: pointer;
+    border: 3px black solid;
+}
+
+.numbers {
+    cursor: pointer;
+    padding: 0rem 1rem 0rem 1rem;
+    border-radius: 4rem;
+    font-size: 2rem;
+}
+
+.numbers:hover {
+    background-color: rgb(136, 168, 72);
+}
